@@ -2,7 +2,7 @@ This is a code I used in following video:
 
 DLOAD subroutine Abaqus tutorial | Moving  or Nonuniform load
 
-Link of video: https://youtu.be/7JPCwqKaGRQ
+Link of video: 
 
 Email: notrealengineering@gmail.com
 
